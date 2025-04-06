@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="130" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="安知鱼-上班摸鱼中">
+ <title>安知鱼-上班摸鱼中</title>
+ <style>a:hover #llink{fill:url(#b);stroke:#ccc}a:hover #rlink{fill:#4183c4}</style>
+ <linearGradient id="a" x2="0" y2="100%">
+  <stop offset="0" stop-color="#fcfcfc" stop-opacity="0"/>
+  <stop offset="1" stop-opacity="0.1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="0" y2="100%">
+  <stop offset="0" stop-color="#ccc" stop-opacity="0.1"/>
+  <stop offset="1" stop-opacity="0.1"/>
+ </linearGradient>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1" stroke="#d5d5d5">
+   <rect fill="#fcfcfc" height="19" id="svg_2" rx="2" width="60" x="0.5" y="0.5"/>
+   <rect fill="#fafafa" height="19" id="svg_3" rx="2" width="63" x="66.5" y="0.5"/>
+   <rect height="5" id="svg_4" stroke="#fafafa" width="0.5" x="66" y="7.5"/>
+   <path d="m66.5,6.5l-3,3l0,1l3,3" fill="#fafafa" id="svg_5" stroke="d5d5d5"/>
+  </g>
+  <image height="14" id="svg_6" width="14" x="5" xlink:href="data:image/png;svgedit_url=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjNDI4NUY0IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR29vZ2xlIERyaXZlPC90aXRsZT48cGF0aCBkPSJNMTIuMDEgMS40ODVjLTIuMDgyIDAtMy43NTQuMDItMy43NDMuMDQ3LjAxLjAyIDEuNzA4IDMuMDAxIDMuNzc0IDYuNjJsMy43NiA2LjU3NGgzLjc2YzIuMDgxIDAgMy43NTMtLjAyIDMuNzQyLS4wNDctLjAwNS0uMDItMS43MDgtMy4wMDEtMy43NzUtNi42MmwtMy43Ni02LjU3NHptLTQuNzYgMS43M2E3ODkuODI4IDc4OS44NjEgMCAwIDAtMy42MyA2LjMxOUwwIDE1Ljg2OGwxLjg5IDMuMjk4IDEuODg1IDMuMjk3IDMuNjItNi4zMzUgMy42MTgtNi4zMy0xLjg4LTMuMjg3QzguMSA0LjcwNCA3LjI1NSAzLjIyIDcuMjUgMy4yMTR6bTIuMjU5IDEyLjY1My0uMjAzLjM0OGMtLjExNC4xOTgtLjk2IDEuNjcyLTEuODggMy4yODdhNDIzLjkzIDQyMy45NDggMCAwIDEtMS42OTggMi45N2MtLjAxLjAyNiAzLjI0LjA0MiA3LjIyMi4wNDJoNy4yNDRsMS43OTYtMy4xNTdjLjk5Mi0xLjczNCAxLjg1LTMuMjMgMS45MDYtMy4zMjNsLjEwNC0uMTY3aC03LjI0OXoiLz48L3N2Zz4%3D;base64,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" y="3"/>
+  <g fill="#333" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="110px" font-weight="700" id="svg_7" text-anchor="middle">
+   <rect fill="url(#a)" height="19" id="llink" rx="2" stroke="#d5d5d5" width="60" x="1.5" y="0.5"/>
+   <text fill="#fff" id="svg_8" textLength="330" transform="matrix(0.1 0 0 0.1 0 0)" x="405" y="150">Diving</text>
+   <text id="svg_9" textLength="330" transform="matrix(0.1 0 0 0.1 0 0)" x="395" y="140">Diving</text>
+   <text fill="#fff" id="svg_10" textLength="550" transform="translate(0 1) scale(0.1 0.1)" x="985" y="140">上班摸鱼中</text>
+   <text id="rlink" textLength="550" transform="matrix(0.1 0 0 0.1 0 0)" x="985" y="140">上班摸鱼中</text>
+  </g>
+ </g>
+</svg>
